@@ -2,7 +2,6 @@ goweek
 ===
 Criado por Leonardo Salema, apartir do curso oferecido pela Rocket Seat na semana OminiStack
 
-===
 ## Instalação
 Tenha instaldo o [Node js] para executar o script
 
